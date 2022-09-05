@@ -1,0 +1,23 @@
+/* styles.css */
+
+body{
+    background-color:antiquewhite;
+}
+h1{ color: brown;
+    text-align: center;
+    font-size: 60px;
+}
+
+img{display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    height: auto;
+    width: 500px;
+    
+}
+
+li{
+    text-align: center;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
