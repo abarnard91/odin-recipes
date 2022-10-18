@@ -1,0 +1,63 @@
+/* styles.css */
+
+body{
+    background-color:antiquewhite;
+}
+h1{ color: brown;
+    text-align: center;
+    font-size: 70px;
+}
+
+h2{color: brown;
+    text-align: center;
+    font-size: 30px;
+}
+
+.serving {    
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.image{display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    height: auto;
+    width: 500px;
+}
+
+.ingredients{ 
+    text-align: center;
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {color: brown;
+    text-align: center;
+    font-size: 30px;
+}
+
+.directions {
+    text-align: left;
+    display: block;
+    margin-left:30%;
+    margin-right: 30%;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.home{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+}
